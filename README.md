@@ -5,7 +5,7 @@
 
 <br>
 
-[README_English](README_en.md) | [中文文档](README.md)
+[中文文档](README.md) | [English README](README_en.md)
 
 <br>
 
