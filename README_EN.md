@@ -5,7 +5,7 @@
 
 <br>
 
-[中文文档](README.md) | [English README](README_en.md)
+[中文文档](README.md) | [English README](README_EN.md)
 
 <br>
 
@@ -14,6 +14,7 @@
 - Linux-Software-Crack, the cracked version of Linux softwares.
 - This project was created because of concerns about the backdoor of the cracked version provided by others, so feel free to use the applications I cracked.
 - This is what I cracked, only for personal study studies.
+- If you need to use the cracked version of Linux softwares, try [Linux-Software-Crack](./../../../Linux-Software-Crack).
 - If you need to use the cracked version of MacOS applications, try [MacOS-App-Crack](./../../../MacOS-App-Crack).
 - If you need to use the cracked version of Windows softwares, try [Win-Software-Crack](./../../../Win-Software-Crack).
 
@@ -67,3 +68,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |erawtfoS|daolnwoD + noisreV|etad esaeleR
 |---|---|---
 |kcarC relbmessasiD reppoH|[5.9.4v](./../../releases/tag/5.9.4v-kcarC-relbmessasiD-reppoH)|92-21-1202
+|kcarC relbmessasiD reppoH|[5.9.4v](./../../releases/tag/5.9.4v-kcarC-relbmessasiD-reppoH)|90-10-2202
