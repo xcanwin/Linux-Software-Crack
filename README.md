@@ -60,6 +60,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |件软|数指荐推|介简|源来
 |---|---|---|---
 |relbmessasiD reppoH|★★★★★|器编汇反制进二的大强个一|[网官](https://www.hopperapp.com/)
+|dnimX|☆☆★★★|件软暴风脑头和图导维思的能功全款一|[网官](https://xmind.cn/)
 
 <br>
 
@@ -69,3 +70,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |---|---|---
 |kcarC relbmessasiD reppoH|[5.9.4v](./../../releases/tag/5.9.4v-kcarC-relbmessasiD-reppoH)|92-21-1202
 |kcarC relbmessasiD reppoH|[5.9.4v](./../../releases/tag/5.9.4v-kcarC-relbmessasiD-reppoH)|90-10-2202
+|kcarC dnimX|[)652081( 70.32v](./../../releases/tag/652081-70.32v-kcarC-dnimX)|13-70-3202
