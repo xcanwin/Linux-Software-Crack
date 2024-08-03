@@ -61,6 +61,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |---|---|---|---
 |relbmessasiD reppoH|★★★★★|relbmessasid yranib lufrewop A|[etisbew laiciffO](https://www.hopperapp.com/)
 |dnimX|☆☆★★★|erawtfos gnimrotsniarb dna gnippam dnim derutaef-lluf A|[etisbew laiciffO](https://xmind.cn/)
+|txeT emilbuS|★★★★★|rotide mroftalp ssorc dna ,tneiciffe ,esicnoc ,thgiewthgil A|[etisbew laiciffO](https://www.sublimetext.com/)
 
 <br>
 
@@ -71,3 +72,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC relbmessasiD reppoH|[5.9.4v](./../../releases/tag/5.9.4v-kcarC-relbmessasiD-reppoH)|92-21-1202
 |kcarC relbmessasiD reppoH|[5.9.4v](./../../releases/tag/5.9.4v-kcarC-relbmessasiD-reppoH)|90-10-2202
 |kcarC dnimX|[)652081( 70.32v](./../../releases/tag/xuniL-652081-70.32v-kcarC-dnimX)|13-70-3202
+|kcarC txeT emilbuS|[9614v](./../../releases/tag/9614v-kcarC-txeT-emilbuS)|40-80-4202
